@@ -1,16 +1,12 @@
-[![MasterHead](https://camo.githubusercontent.com/6bfa8245623b8db09d02f629eb508b0ef64179e06f397e5dcd2ccff59fc2e8f4/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a417968757575)
-
 <h1 align="center">Selam 👋, Ben kiiwas</h1>
 <h3 align="center">Ben öylesine kodlama yapan biriyim.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiiwas&label=Profile%20views&color=0e75b6&style=flat" alt="kiiwas" /> </p>
 
 - 📫 How to reach me **discord : kiiwas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/egeexcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egeexcc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kiiwas1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kiiwas1337" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kiiwas1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kiiwas1337" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/ethereumclient" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/ethereumclient" height="30" width="40" /></a>
 </p>
 
@@ -20,7 +16,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/kiiwas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/kiiwas" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiiwas&show_icons=true&locale=en&layout=compact" alt="kiiwas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiiwas&show_icons=true&locale=en" alt="kiiwas" /></p>
 
+[![MasterHead](https://camo.githubusercontent.com/6bfa8245623b8db09d02f629eb508b0ef64179e06f397e5dcd2ccff59fc2e8f4/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a417968757575)
