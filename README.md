@@ -22,4 +22,4 @@
 
 
 
-![snake gif](https://github.com/kiiwas/kiiwas/blob/output/github-contribution-grid-snake.gif)
+[![MasterHead](https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg)
