@@ -5,9 +5,9 @@
 
 <h3 align="left">Bu sosyal medya hesaplarıyla iletişime geçebilirsin:</h3>
 <p align="left">
-<a href="https://instagram.com/egeexcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egeexcc" height="30" width="40" /></a>
+<a href="https://instagram.com/kiiwasxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egeexcc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kiiwas1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kiiwas1337" height="30" width="40" /></a>
-<a href="https://discord.gg/asdasfamanas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asdasfamanas" height="30" width="40" /></a>
+<a href="https://discord.gg/guild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asdasfamanas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
